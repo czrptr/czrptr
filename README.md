@@ -1,16 +1,50 @@
-## Hi there 👋
+## Pleasure 
 
-<!--
-**czrptr/czrptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Game Modding & Development
+- Creating custom content and gameplay mechanics for games like <code><img height="26" align="top" alt="Spelunky 2 logo" src="https://github.com/user-attachments/assets/2a46fd21-33a4-41c9-8911-7e6d4ab3db19"/> [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)</code> and <code><img height="26" align="top" alt="Minecraft logo" src="https://github.com/user-attachments/assets/c88ac028-194d-4daf-aae0-10208724bae0"/> [Minecraft](https://www.minecraft.net/en-us)</code>
+  - <code><img height="26" align="top" alt="Pouch icon" src="https://raw.githubusercontent.com/czrptr/spelunky2-pouch-mod/refs/heads/trunk/icon.png"/> [Pouch](https://spelunky.fyi/mods/m/pouch/)</code> ([source code](https://github.com/czrptr/spelunky2-pouch-mod/tree/trunk))
+  - <code><img height="26" align="top" alt="Stop hitting each other icon" src="https://raw.githubusercontent.com/czrptr/spelunky2-stop-hitting-each-other-mod/refs/heads/trunk/icon.png"/> [Stop hitting each other](https://spelunky.fyi/mods/m/stop-hitting-each-other/)</code> ([source code](https://github.com/czrptr/spelunky2-stop-hitting-each-other-mod/tree/trunk))
+  - <code><img height="26" align="top" alt="Steady Footing icon" src="https://raw.githubusercontent.com/czrptr/spelunky2-steady-footing-mod/refs/heads/trunk/icon.png"/> [Steady Footing](https://spelunky.fyi/mods/m/steady-footing/)</code> ([source code](https://github.com/czrptr/spelunky2-steady-footing-mod/tree/trunk))
+  - I haven't **publicly** released any Minecraft mod yet 
+- Actively working on a racing game inspired by the retro title <code><img height="26" align="top" alt="Ignition logo" src="https://github.com/user-attachments/assets/d0103bc0-7c4c-49f9-a101-9579b9195c5a"/> [Ignition](https://store.steampowered.com/app/577990/Ignition/)</code>
 
-Here are some ideas to get you started:
+### Deep-Dive Learning Projects
+- Designing and implementing custom languages
+  - Lexers, Parsers, Interpreters & Compilers
+- Implementing core components of the C++ Standard Library from scratch
+  - Tuple, Regex, Containers, Allocators, Metaprogramming utilities, algorithms
+- Building a 3D software renderer with OBJ file importers from the ground up
+- Creating basic Git-like systems to comprehend distributed version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open Source & Community 
+- Contributing to interesting projects that align with my interests ([modlunky2](https://github.com/spelunky-fyi/modlunky2/wiki/Home/af49ef467f5b7021bf565f6dc57d71bb094d28fd))
+- Collaborating with developer communities on technical challenges ([ziglang](https://github.com/ziglang/zig/issues/8270#issuecomment-889080484), [godot](https://github.com/godotengine/godot-proposals/issues/11584))
+
+### Skills
+<code><img height="24" align="top" alt="C# logo" src="https://github.com/user-attachments/assets/de67d6cf-b8a8-418a-96a9-7d0e4b971b09"> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">C#</a></code>　<code><img height="24" align="top" alt="Godot logo" src="https://github.com/user-attachments/assets/393d2f2e-0b71-4593-9974-8d7c72fa5471"> <a href="https://godotengine.org/">Godot</a> & <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html">GDScript</a></code>　<code><img height="24" align="top" alt="TypeScript logo" src="https://github.com/user-attachments/assets/7786752a-9197-4483-bb17-5f0a7fb03dbf"> <a href="https://www.typescriptlang.org/">TypeScript</a></code>　<code><img height="24" align="top" alt="Lua logo" src="https://github.com/user-attachments/assets/d5fa86c4-c7dd-4803-a8b7-8871f6b47fd3"> <a href="https://www.lua.org/">Lua</a></code>　<code><img height="24" align="top" alt="Photoshop logo" src="https://github.com/user-attachments/assets/9939da33-0850-4c74-869e-443dc228f474"> <a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></code>　<code><img height="24" align="top" alt="Illustrator logo" src="https://github.com/user-attachments/assets/821020c5-c498-44af-93a3-2fc17415722e"> <a href="https://www.adobe.com/products/illustrator.html">Illustrator</a></code>　<code><img height="24" align="top" alt="Unity logo" src="https://github.com/user-attachments/assets/f3210a21-3713-4e6c-addf-720b24928130"> <a href="https://unity.com/">Unity</a></code>
+
+### Following interesting projects
+Shoutout 📢 to [Zig](https://github.com/ziglang/zig), [Carbon](https://github.com/carbon-language/carbon-lang), [Godot](https://github.com/godotengine/godot), [Blender](https://github.com/blender/blender), [Audacity](https://github.com/audacity/audacity), [Musescore](https://github.com/musescore/MuseScore), [Ladybird](https://github.com/LadybirdBrowser/ladybird), [SerenityOS](https://github.com/SerenityOS/serenity), [Jonathans Blow's programming language for games](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO).
+
+## Business
+
+### Overview
+Senior Software Engineer with over 5 years of professional experience in designing, developing, and optimizing sophisticated software solutions across industrial automation, automotive, and semiconductor manufacturing industries. Proven expertise in full-cycle project delivery, from concept to deployment, with a strong focus on real-time systems, embedded software, and high-precision measurement technologies.
+- <h3><code><a href="https://www.ifm.com/sg/en"><img height="26" align="top" alt="ifm logo" src="https://github.com/user-attachments/assets/a411cb95-f4a2-4a48-914b-ff078b60054d"><img height="10" align="bottom" src="https://github.com/user-attachments/assets/00cbcfb2-6a29-4929-8e25-bb9551c1d37e"/></a></code> Industrial Automation & Sensor Technology</h3>
+  Developed a Windows-based application for real-time monitoring and configuration of industrial vibration sensors, enabling predictive maintenance and reducing machine downtime.
+
+- <h3><code><a href="https://www.bmw.com/en/index.html"><img height="26" align="top" alt="BMW logo" src="https://github.com/user-attachments/assets/8a3c86bd-7a32-4079-a8fc-2237264cce8a"><img height="10" align="bottom" src="https://github.com/user-attachments/assets/00cbcfb2-6a29-4929-8e25-bb9551c1d37e"/></a></code> Automotive Embedded Systems</h3>
+  Engineered embedded software for automotive climatization ECUs, implementing control algorithms for occupant comfort and utilizing diagnostic tools like CANalyzer for troubleshooting.
+
+- <h3><code><a href="https://www.asml.com/en"><img height="26" align="top" alt="ASML logo" src="https://github.com/user-attachments/assets/3c84824b-d17f-4c79-a975-74733ab53c76"><img height="10" align="bottom" src="https://github.com/user-attachments/assets/00cbcfb2-6a29-4929-8e25-bb9551c1d37e"/></a></code> Semiconductor Manufacturing</h3>
+   Contributed to the measure sequence software for TWINSCAN lithography systems, developing features for nanometer-level calibration to ensure wafer-leveling precision and maximize chip yield.
+
+### Skills
+
+|Level|Technology|
+|-|-|
+|<img height="24" align="top" alt="Authority" src="https://github.com/user-attachments/assets/082a1795-6c2b-447b-8fc7-d91ff70e19e2"/> **Authority**| <code>Hating on C++</code>|
+|<img height="24" align="top" alt="Expert" src="https://github.com/user-attachments/assets/1a6bc075-1ebe-48cb-af76-58c58312d318"/> **Expert**|<code><img height="26" align="top" alt="C++ logo" src="https://github.com/user-attachments/assets/0cb5b608-7abd-4fda-8d7f-13cf0bed4c94"> <a href="https://isocpp.org/">C++</a></code>　<code><img height="26" align="top" alt="Linux logo" src="https://github.com/user-attachments/assets/28ce1e55-a9e0-4cd7-b357-e58c527da3a8"> <a href="https://www.kernel.org/">Linux</a></code>　<code><a href="https://google.github.io/googletest/">GoogleTest</a></code>|
+|<img height="24" align="top" alt="Advanced" src="https://github.com/user-attachments/assets/3cf7325b-4b4a-4da4-95fb-d8e4e14d1f7f"/> **Advanced**|<code><img height="26" align="top" alt="Python logo" src="https://github.com/user-attachments/assets/17d7a85a-c9a1-4534-ac6a-aee6982b91b2"/> <a href="https://www.python.org/">Python</a></code>　<code><img height="26" align="top" alt="Bash logo" src="https://github.com/user-attachments/assets/c98be065-1989-473c-a528-590ea1dbf80f"/> <a href="https://www.gnu.org/software/bash/">Bash</a></code>　<code><img height="26" align="top" alt="Git logo" src="https://github.com/user-attachments/assets/3f75bdb9-1705-48bb-a5a0-4a3165aa7717"/> <a href="https://git-scm.com/">Git</a></code>|
+|<img height="24" align="top" alt="Intermediate" src="https://github.com/user-attachments/assets/3e7dbea8-dceb-4f96-b0cd-a37c29c31c5c"/> **Intermediate**|<code><img height="24" align="top" alt="C logo" src="https://github.com/user-attachments/assets/bd941bab-d72f-44e7-ba95-9984ec902c61"/> <a href="https://www.c-language.org/">C</a></code>　<code><img height="26" align="top" alt="Bazel logo" src="https://github.com/user-attachments/assets/ebcf383f-dd25-4caf-8494-fcc6e67cef36"/> <a href="https://bazel.build/">Bazel</a></code>　<code><img height="24" align="top" alt="CMake logo" src="https://github.com/user-attachments/assets/03ca0f63-a821-471b-81f1-7c9c4bb6591f"/> <a href="https://cmake.org/">CMake</a></code>　<code><img height="26" align="top" alt="Robot framework logo" src="https://github.com/user-attachments/assets/183605d7-ea4b-44d5-a57e-0f1c1624d193"/> <a href="https://robotframework.org/">Robot framework</a></code>|
+|<img height="24" align="top" alt="Novice" src="https://github.com/user-attachments/assets/7368026b-7e6c-48f2-8b47-84599aac0617"/> **Novice**|<code><img height="26" align="top" alt="TypeScript logo" src="https://github.com/user-attachments/assets/7786752a-9197-4483-bb17-5f0a7fb03dbf"/> <a href="https://www.typescriptlang.org/">TypeScript</a></code>　<code><img height="26" align="top" alt="Jenkins logo" src="https://github.com/user-attachments/assets/5dc3ce5f-6a0b-4a2f-9a0a-abeb66759911"/> <a href="https://www.jenkins.io/">Jenkins</a></code>　<code><img height="24" align="top" alt="Artifactory logo" src="https://github.com/user-attachments/assets/b8a8fc1d-1f6a-457c-bf24-d29b565d4ae0"/> <a href="https://jfrog.com/artifactory/">Artifactory</a></code>|
