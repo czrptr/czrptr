@@ -12,9 +12,10 @@
 - Designing and implementing custom languages
   - Lexers, Parsers, Interpreters & Compilers
 - Implementing core components of the C++ Standard Library from scratch
-  - Tuple, Regex, Containers, Allocators, Metaprogramming utilities, algorithms
+  - Tuple, Regex, Containers, Allocators, Metaprogramming utilities, Algorithms
 - Building a 3D software renderer with OBJ file importers from the ground up
 - Creating basic Git-like systems to comprehend distributed version control
+- Serialization and deserialization library ([serde.cpp](https://github.com/czrptr/serde.cpp))
 
 ### Open Source & Community 
 - Contributing to interesting projects that align with my interests ([modlunky2](https://github.com/spelunky-fyi/modlunky2/wiki/Home/af49ef467f5b7021bf565f6dc57d71bb094d28fd))
